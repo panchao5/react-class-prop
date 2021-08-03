@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`class prop accepts arrays 1`] = `
+<div
+  className="a b"
+>
+  Hello World
+</div>
+`;
+
+exports[`class prop accepts nested arrays 1`] = `
+<div
+  className="a b"
+>
+  <span
+    className="c d"
+  >
+    Yo
+  </span>
+</div>
+`;
+
+exports[`class prop accepts objects 1`] = `
+<div
+  className="b"
+>
+  Hello World
+</div>
+`;
+
+exports[`class prop appends to className 1`] = `
+<div
+  className="a b c"
+>
+  Hello World
+</div>
+`;
