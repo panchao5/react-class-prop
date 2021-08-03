@@ -1,1 +1,1 @@
-A simple demonstration of creating and using a custom JSX pragma.
+A simple demonstration of customizing the `jsx` function.
